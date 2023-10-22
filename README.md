@@ -3,7 +3,7 @@
 A sensor board with CircuitPython and the Adafruit Feather Series using the following hardware:
 
 - [Adafruit Feather RP2040](https://www.adafruit.com/product/4884)
-- [Adafruit FeatherWing OLED](https://www.adafruit.com/product/4650).
+- [Adafruit FeatherWing OLED - 128x32 OLED](https://www.adafruit.com/product/3045).
 - [Adafruit SCD-30 - NDIR CO2 Temperature and Humidity Sensor](https://www.adafruit.com/product/4867)
 
 ## Development
