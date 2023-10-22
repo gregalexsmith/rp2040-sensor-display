@@ -1,0 +1,5 @@
+# Clear out the destination directory
+rm -rf CIRCUITPY
+
+# Copy files from CircuitPython device to local directory
+cp -r /Volumes/CIRCUITPY .

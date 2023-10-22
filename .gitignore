@@ -1,0 +1,9 @@
+lib/
+.fseventsd
+.metadata_never_index
+.Trashes
+.DS_Store
+
+boot_out.txt
+log.txt
+settings.toml
