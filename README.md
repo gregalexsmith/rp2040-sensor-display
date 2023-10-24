@@ -18,3 +18,9 @@ Once changes have been made and tested, commit them by:
 
 1. running `./copyfiles` to copy the files from the device to this repo
 1. commit the changes
+
+## References
+- [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython)
+- [RP2040](https://learn.adafruit.com/adafruit-feather-rp2040-pico)
+- [CircuitPython + displayio](https://learn.adafruit.com/circuitpython-display-support-using-displayio)
+- [Adafruit SCD-30](https://learn.adafruit.com/adafruit-scd30)
